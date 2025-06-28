@@ -32,7 +32,7 @@ A central hub of my top web development projects, showcasing real-world features
 
 ## 🏖 Holiday Planner Website  
 **Travel planning website with visually rich interface**  
-📸 [Holiday Planner Screenshot]([https://github.com/user-attachments/assets/738b9d2b-20e8-47b0-8e68-4d79cb4b2250])
+📸 [Holiday Planner Screenshot]![holiday website](https://github.com/user-attachments/assets/6ac612ab-ae42-4e9e-9285-82ebbd18b290)
 
 🔗 [Live Demo](https://holiday152.netlify.app)
 
@@ -41,6 +41,7 @@ A central hub of my top web development projects, showcasing real-world features
 - Responsive and visually appealing.
 
 ---
+
 
 ## 🌐 3D Universe Website  
 **Real-time 3D animation of the solar system**  
