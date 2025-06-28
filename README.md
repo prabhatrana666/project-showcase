@@ -6,7 +6,8 @@ A central hub of my top web development projects, showcasing real-world features
 
 ## 🌤 Weather App  
 **Real-time weather updates using OpenWeather API**  
-📸 [Weather App Screenshot] ![weatherapp](https://github.com/user-attachments/assets/5ae07fc0-52da-4a5f-979d-d3b39981f92c)
+
+📸 [Weather App Screenshot] ![weatherapp](https://github.com/user-attachments/assets/1d354a02-cd3c-4e4f-9d24-2fa966b738bc)
 
 🔗 [Live Demo](https://weatherapp2901.netlify.app)
 
