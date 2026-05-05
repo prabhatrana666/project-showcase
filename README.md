@@ -81,17 +81,6 @@ A central hub of my top web development projects, showcasing real-world features
 
 ---
 
-## 🌐 Portfolio Website  
-**Showcasing my skills, projects, and contact information**  
-📸[Portfolio Screenshot]![portfolio](https://github.com/user-attachments/assets/93031646-a31d-4d42-8073-a80bfb8c9a08)
-🔗 [Live Demo](https://myportfolioapp666.netlify.app)
-
-- Personal portfolio made with modern UI.
-- Smooth scrolling and responsive layout.
-- Highlights key projects, skills, and GitHub/LinkedIn links.
-
----
-
 ## 🧰 Tech Stack Summary
 
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React.js
