@@ -93,10 +93,21 @@ A central hub of my top web development projects, showcasing real-world features
 
 ## 📫 Contact
 
-Feel free to connect with me:  
-🔗 [LinkedIn](https://linkedin.com/in/prabhat-rana)  
-📧 prabhatrana2024@gmail.com  
-💻 [GitHub](https://github.com/prabhatrana666)
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/prabhat-rana" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/prabhatrana666" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prabhatrana.dev@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
