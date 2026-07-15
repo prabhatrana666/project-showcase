@@ -67,13 +67,10 @@ A central hub of my top web development projects, showcasing real-world features
   />
 </p>
 
-<p align="center">
+
   <a href="https://calculatorprabhat0121.netlify.app" target="_blank">
     🚀 Live Demo
   </a>
-</p>
-
-
 - Built using React.js with functional components.
 - Handles arithmetic operations with real-time updates.
 - Clean UI and fully responsive design.
