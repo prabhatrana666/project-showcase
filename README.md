@@ -106,7 +106,7 @@ A central hub of my top web development projects, showcasing real-world features
 
 <p align="left">
   <a href="https://linkedin.com/in/prabhat-rana" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?_=20140125013055" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
 
