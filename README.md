@@ -111,7 +111,7 @@ A central hub of my top web development projects, showcasing real-world features
   &nbsp;&nbsp;
 
   <a href="https://github.com/prabhatrana666" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
 
