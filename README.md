@@ -4,20 +4,7 @@ A central hub of my top web development projects, showcasing real-world features
 
 ---
 
-## 🌤 Weather App  
-**Real-time weather updates using OpenWeather API**  
 
-📸 [Weather App Screenshot] ![weatherapp](https://github.com/user-attachments/assets/1d354a02-cd3c-4e4f-9d24-2fa966b738bc)
-
-🔗 [Live Demo](https://weatherapp2901.netlify.app)
-
-- Fetches live weather data based on user input.
-- Uses `ipify API` to display public IP.
-
-- Displays date, time, and dynamic weather visuals.
-- Mobile-optimized and fast-loading.
-
----
 
 ## 🎒 Adventure Website  
 **Responsive adventure travel landing page**  
@@ -54,6 +41,21 @@ A central hub of my top web development projects, showcasing real-world features
 - Animated solar system built with CSS and JavaScript.
 - Educational and visually engaging.
 - Fully responsive and interactive design.
+
+---
+
+## 🌤 Weather App  
+**Real-time weather updates using OpenWeather API**  
+
+📸 [Weather App Screenshot] ![weatherapp](https://github.com/user-attachments/assets/1d354a02-cd3c-4e4f-9d24-2fa966b738bc)
+
+🔗 [Live Demo](https://weatherapp2901.netlify.app)
+
+- Fetches live weather data based on user input.
+- Uses `ipify API` to display public IP.
+
+- Displays date, time, and dynamic weather visuals.
+- Mobile-optimized and fast-loading.
 
 ---
 
