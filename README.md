@@ -59,10 +59,19 @@ A central hub of my top web development projects, showcasing real-world features
 
 ## 🧮 React Calculator  
 ## Functional and Responsive Calculator UI
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/3d73e958-dcbe-49cd-9f25-b47ae9e88208"
+    alt="Calculator Screenshot"
+    width="350"
+  />
+</p>
 
-![Calculator Screenshot](https://github.com/user-attachments/assets/3d73e958-dcbe-49cd-9f25-b47ae9e88208)
-
-🔗 **Live Demo:** https://calculatorprabhat0121.netlify.app
+<p align="center">
+  <a href="https://calculatorprabhat0121.netlify.app" target="_blank">
+    🚀 Live Demo
+  </a>
+</p>
 
 
 - Built using React.js with functional components.
