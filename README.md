@@ -124,5 +124,3 @@ A central hub of my top web development projects, showcasing real-world features
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
-
-> ⭐ Star this repository if you found the projects helpful or inspiring!
