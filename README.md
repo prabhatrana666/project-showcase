@@ -102,8 +102,6 @@ A central hub of my top web development projects, showcasing real-world features
 
 ---
 
-## 📫 Contact
-
 ## 🌐 Connect with Me
 
 <p align="left">
